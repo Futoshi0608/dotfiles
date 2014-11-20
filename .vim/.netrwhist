@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/futoshi0608/ookami-mobile/www/templates'
+let g:netrw_dirhist_2='/Users/futoshi0608/ookami-mobile/images'
+let g:netrw_dirhist_3='/Users/futoshi0608/ookami-mobile/www/templates'
+let g:netrw_dirhist_4='/Users/futoshi0608/ookami-mobile/www/js'
+let g:netrw_dirhist_5='/Users/futoshi0608/angular.js/lib'
